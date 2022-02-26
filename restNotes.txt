@@ -4,6 +4,6 @@ Benefits of Rest
 
 * Caching
 
-Redirection and forwarding
+* Redirection and forwarding
 
-Security (encryption and authentication)
+* Security (encryption and authentication)
