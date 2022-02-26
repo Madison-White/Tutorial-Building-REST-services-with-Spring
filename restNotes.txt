@@ -1,9 +1,0 @@
-Benefits of Rest
-
-* Suitable actions (GET, POST, PUT, DELETE, …​)
-
-* Caching
-
-* Redirection and forwarding
-
-* Security (encryption and authentication)
