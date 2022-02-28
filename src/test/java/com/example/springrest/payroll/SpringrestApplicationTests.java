@@ -1,4 +1,4 @@
-package com.example.springrest.springrest;
+package com.example.springrest.payroll;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
